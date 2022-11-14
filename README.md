@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IamDivine
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning react, node and mongoDB
+- 👀 I like to code
+- 🌱 I like to code in JavaScript and Java
 - 📫 You can reach me via twitter @divine_osafo
 
